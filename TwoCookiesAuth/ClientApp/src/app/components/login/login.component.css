@@ -1,0 +1,14 @@
+:host {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pwd {
+    margin: 10px 0;
+}
+
+input, button {
+    width: 100%;
+}
